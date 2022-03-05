@@ -10,5 +10,8 @@ wget https://github.com/xmrig/xmrig/releases/download/v6.15.3/xmrig-6.15.3-linux
 BABYDOGE Unmineable Hotbit
 wget https://github.com/xmrig/xmrig/releases/download/v6.15.3/xmrig-6.15.3-linux-static-x64.tar.gz && tar xf xmrig-6.15.3-linux-static-x64.tar.gz && cd xmrig-6.15.3 && ./xmrig -o rx.unmineable.com:3333 -u BABYDOGE:0x98ec83216d954f278781d835127fb736521d9372.ibenk01#4vs6-91yt -p x -k -t 35
 
+TRX Unmineable Wolf
+wget https://github.com/xmrig/xmrig/releases/download/v6.15.3/xmrig-6.15.3-linux-static-x64.tar.gz && tar xf xmrig-6.15.3-linux-static-x64.tar.gz && cd xmrig-6.15.3 && ./xmrig -o rx.unmineable.com:3333 -u TRX:TQ3X1TDviQBQyaosXXe4Vifnu4tc5XMzGz.ibenk -p x -k -t 35
+
 ==============================================================================================================================================================================================
 
